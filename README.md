@@ -24,7 +24,7 @@ I'm **Vishwa Krithik**, a passionate developer who enjoys building cool projects
 - LinkedIn: https://linkedin.com/in/vishwa-krithik
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishwaKrithik&show_icons=true)
 
 
 ---
