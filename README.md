@@ -24,8 +24,9 @@ I'm **Vishwa Krithik**, a passionate developer who enjoys building cool projects
 - LinkedIn: https://linkedin.com/in/vishwa-krithik
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishwaKrithik&show_icons=true)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishwaKrithik&show_icons=true)-->
 
+![Snake animation](https://github.com/VishwaKrithik/VishwaKrithik/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ⭐ *Thanks for visiting my profile! Have a great day!*
