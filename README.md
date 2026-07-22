@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**VishwaKrithik/VishwaKrithik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Vishwa Krithik**, a passionate developer who enjoys building cool projects and learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning: Web Development & AI
+- 💻 Interested in: Open Source, Full Stack Development
+- 🎯 Goal: Build impactful software
+- ☕ Fun fact: I debug faster with coffee!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, C++
+- **Frontend:** HTML, CSS, React
+- **Backend:** Node.js, Express
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, GitHub, VS Code
+
+## 📈 GitHub Stats
+- ⭐ Love contributing to open source
+- 📚 Always learning something new
+
+## 📫 Connect with Me
+- GitHub: https://github.com/VishwaKrithik
+- LinkedIn: https://linkedin.com/in/vishwa-krithik
+
+---
+⭐ *Thanks for visiting my profile! Have a great day!*
