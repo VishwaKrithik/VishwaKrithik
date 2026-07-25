@@ -1,6 +1,3 @@
-# Work in Progress
-
-
 # Hi there 👋
 
 I'm **Vishwa Krithik**, a passionate developer who enjoys building cool projects and learning new technologies.
@@ -26,7 +23,7 @@ I'm **Vishwa Krithik**, a passionate developer who enjoys building cool projects
 - GitHub: https://github.com/VishwaKrithik
 - LinkedIn: https://linkedin.com/in/vishwa-krithik
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)-->
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishwaKrithik&show_icons=true)-->
 
